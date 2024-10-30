@@ -8,6 +8,6 @@ namespace FitnessTracker
 {
     internal interface ICommand
     {
-        void Excute();
+        void Execute();
     }
 }
